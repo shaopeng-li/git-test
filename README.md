@@ -12,4 +12,6 @@ Git is free software.
 Git is a distributed version control system.
 Git is free software.
 
-this is a fourth changes
+this is a fourth changes 
+
+this work is in the middle
